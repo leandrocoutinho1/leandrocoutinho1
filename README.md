@@ -20,4 +20,11 @@
 
 </div><br/>
 
+## Projeto Acadêmico - Desenvolvimento Web 1
+
+[🔗 Acessar pasta com os trabalhos e exercícios](https://leandro355.infinityfreeapp.com/)
+
+Este repositório contém os trabalhos e exercícios desenvolvidos ao longo da disciplina de **Desenvolvimento Web 1**.
+
+
 Engenheiro de Software.
