@@ -27,4 +27,13 @@
 Este repositório contém os trabalhos e exercícios desenvolvidos ao longo da disciplina de **Desenvolvimento Web 1**.
 
 
+## Projeto Product Management API
+
+[🔗 Acessar repositório no GitHub](https://github.com/leandrocoutinho1/product-management-api)
+
+API para gerenciar produtos com autenticação JWT, desenvolvida com **FastAPI**, **SQLAlchemy** e **PostgreSQL**.  
+O projeto inclui registro e login de usuários, CRUD completo de produtos e autenticação via JWT.
+
+
+
 Engenheiro de Software.
